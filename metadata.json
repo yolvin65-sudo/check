@@ -1,0 +1,8 @@
+{
+  "name": "Remix Steren - Checklist Vehicular",
+  "description": "Sistema de inspección vehicular con fotos y firmas digitales para control de flota y transporte de Steren.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
